@@ -1,8 +1,8 @@
-i = 14
+# i = 14
 
-while i >= -16:
-    print(i, end = " ")
-    i -= 6
+# while i >= -16:
+#     print(i, end = " ")
+#     i -= 6
 
 daftar = ['Matematika', 'Fisika', 'Statistika']
 
